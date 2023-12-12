@@ -1,0 +1,12 @@
+**/__pycache__
+*.docx
+*.tmp
+*.sh
+*.png
+**/pickle_data/
+**/models/
+**/best_pickle_results/
+**/data_final/
+
+!**/.gitkeep
+

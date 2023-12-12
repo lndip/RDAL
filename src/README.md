@@ -1,16 +1,6 @@
-# Robust discriminative adversarial learning (RDAL)
+# Robust discriminative adversarial learning with masking (source code)
 
-The `RDAL` repository contains the code for the RDAL deep learning model
-
-## Structure
-- The folder `RDAL\pickle_data` contains the serialized data in pickle form after running `RDAL\src\serialize_data.py`.
-
-- The folder `RDAL\src` contains the source code of RDAL+M.
-
-- The folder `RDAL\models` contains the trained models in each run of each specific training mode. `RDAL\models\tsne_supervised` contains the trained models in the supervised training specifically for the TSNE visualization.
-
-- The folder `RDAL\pickle_results` contains the results in pickle format of each run. `RDAL\best_pickle_results` contains the results of the best model in each approach (baseline, NaiveAdv, RDAL, and RDAL+M) for ROC curve plotting
-
+The source code for Robust Discrminative Adversarial Learning with Masking (RDAL+M).
 
 ## Requirement
 The code is written in Python, and the models are implemented using Pytorch. Make sure all libraries in `environment.yml` are available.
