@@ -1,6 +1,6 @@
 # Robust discriminative adversarial learning (RDAL)
 
-The `RDAL` repository contains the code to reproduce the main results in the paper [Representation Learning for Audio Privacy Preservation Using Source Separation and Robust Adversarial Learning](https://ieeexplore.ieee.org/document/10248153/metrics#metrics) (WASPAA 2023)
+The `RDAL` repository contains the code to reproduce the main results in the paper Adversarial Representation Learning for Robust Privacy Preservation in Audio (OJSP 2023)
 
 ## Structure
 -  The folder `RDAL\data_final` contains the data to run the code. The data can be obtained from [TAU Sound Events and Speech Privacy Preservation](https://zenodo.org/records/10378145)
