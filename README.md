@@ -38,14 +38,13 @@ The code is written in Python, and the models are implemented using Pytorch. Mak
 ## Reference
 Please consider citing our paper if the work is useful for your research.
 ```
-@INPROCEEDINGS{10248153,
-author={Luong, Diep and Tran, Minh and Gharib, Shayan and Drossos, Konstantinos and Virtanen, Tuomas},
-booktitle={2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)}, 
-title={Representation Learning for Audio Privacy Preservation Using Source Separation and Robust Adversarial Learning}, 
-year={2023},
-volume={},
-number={},
-pages={1-5}}
+@ARTICLE{gharib2023privacy,
+  author={Gharib, Shayan and Tran, Minh and Luong, Diep and Drossos, Konstantinos and Virtanen, Tuomas},
+  journal={IEEE Open Journal of Signal Processing},
+  title={Adversarial Representation Learning for Robust Privacy Preservation in Audio},
+  year={2023},
+  note={submitted for publication},
+}
 ```
 
 ## Contact
